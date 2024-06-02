@@ -5,8 +5,8 @@ import worker
 lessons_list = []
 
 lesson_first = '''
-<!-- Привет! Это тестовый html-файл  -->
-<h1>Тестовый заголовок</h1>
+<!-- привет! это тестовый html-файл  -->
+<h1>тестовый заголовок</h1>
 '''
 
 lessons_list.append(lesson_first)

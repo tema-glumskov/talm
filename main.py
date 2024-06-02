@@ -2,6 +2,8 @@
 
 import worker
 
+worker.start()
+
 worker.readfile('index.html')
 #worker.check()
 
